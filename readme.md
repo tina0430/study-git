@@ -14,6 +14,8 @@
   - ?? : New
 - git add : 작업 디렉토리에서 준비영역으로 올림
 - git commit : 준비 영역에서 로컬 저장소(.git)로 올림
+- git commit -m "msg" : 커밋 메세지 작성
+- git commit -am "msg" : add + 커밋 메세지 작성
 - git push : 로컬 저장소에서 원격 저장소(ex-github)로 올림
 - git log : 커밋 내역 보여줌
 - git reset --hard : 가장 최근에 커밋한 버전으로 롤백
